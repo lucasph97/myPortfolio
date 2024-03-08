@@ -1,1 +1,10 @@
-# myPortfolio
+Hola! Este es el repositorio de mi portfolio de proyectos de Data Science & Analytics. 
+El propósito de este repositorio es compartir algunos trabajos que realicé por cuenta propia en pos de demostrar mis conocimientos en estadística aplicada y programas relacionados con distintos métodos estadísticos. Estos proyectos fueron realizados por fuera de mi experiencia laboral, simplemente por el hecho de que aún no he tenido oportunidad de utilizar estos programas o implementar estos métodos en un trabajo "formal". 
+Como Licenciado en Estadística, tengo fundamentos sólidos en la materia. Además he tenido una vasta experiencia utilizando el software R (+5 años). En consecuencia, implementar nuevas (para mí) metodologías o programas, me resulta bastante sencillo (de hecho estoy muy acostumbrado a trabajar así). En poco tiempo empiezo a utilizar y amplicar estos nuevos aprendizajes ya que logro entiender de qué se tratan el programa y la metodología bastante rápido.
+Sin más que agregar, bienvenidos a mi portfolio de proyectos! Consultas y feedback serán más que bien recibidos :)
+
+
+Hi there! This is a repository for my Data Science & Analytics project portfolio.
+The purpose of this repo is to share some of the work that I have done on my own in order to proove my knowledge on applied statistics and related software. I have worked on these projects after my working hours, simply because so far I have not yet had the chance to implement these methodologies and software in a "formal" job. 
+As a Statistician (I have a BS with Major in Stats) I have quite strong foundations on the subject. Additionally, I have been an R user for a while now (over 5 years). Thus getting to understand and implement new (for me) methodologies and software is usually quite straightforward for me (I am actually quite used to working like that). In a short-period of time I am able to implement all the new learnings as I get to understand how software and methodologies work pretty quickly.
+Without further adue, welcome to my project portfolio! Questions and feedback shall be well received :)
