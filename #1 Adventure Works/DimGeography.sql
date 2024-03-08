@@ -1,0 +1,12 @@
+SELECT [GeographyKey]
+      ,[City]
+      ,[StateProvinceCode]
+      ,[StateProvinceName]
+      ,[CountryRegionCode]
+      ,[EnglishCountryRegionName] AS CountryRegion
+      --,[SpanishCountryRegionName]
+      --,[FrenchCountryRegionName]
+      --,[PostalCode]
+      ,[SalesTerritoryKey]
+      --,[IpAddressLocator]
+  FROM [AdventureWorksDW2022].[dbo].[DimGeography]

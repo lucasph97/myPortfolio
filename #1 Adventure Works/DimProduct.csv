@@ -1,0 +1,159 @@
+﻿ProductKey;ProductSubCategoryName;WeightUnitMeasureCode;SizeUnitMeasureCode;ProductName;StandardCost;FinishedGoodsFlag;Color;SafetyStockLevel;ListPrice;Size;SizeRange;Weight;DaysToManufacture;ProductLine;DealerPrice;Class;Style;ModelName;Status
+214;Helmets;NULL;NULL;Sport-100 Helmet, Red;13,0863;1;Red;4;34,99;NULL;NA;NULL;0;"S ";20,994;NULL;NULL;Sport-100;Current
+217;Helmets;NULL;NULL;Sport-100 Helmet, Black;13,0863;1;Black;4;34,99;NULL;NA;NULL;0;"S ";20,994;NULL;NULL;Sport-100;Current
+222;Helmets;NULL;NULL;Sport-100 Helmet, Blue;13,0863;1;Blue;4;34,99;NULL;NA;NULL;0;"S ";20,994;NULL;NULL;Sport-100;Current
+225;Caps;NULL;NULL;AWC Logo Cap;6,9223;1;Multi;4;8,99;NULL;NA;NULL;0;"S ";5,394;NULL;"U ";Cycling Cap;Current
+228;Jerseys;NULL;NULL;Long-Sleeve Logo Jersey, S;38,4923;1;Multi;4;49,99;S;S;NULL;0;"S ";29,994;NULL;"U ";Long-Sleeve Logo Jersey;Current
+231;Jerseys;NULL;NULL;Long-Sleeve Logo Jersey, M;38,4923;1;Multi;4;49,99;M;M;NULL;0;"S ";29,994;NULL;"U ";Long-Sleeve Logo Jersey;Current
+234;Jerseys;NULL;NULL;Long-Sleeve Logo Jersey, L;38,4923;1;Multi;4;49,99;L;L;NULL;0;"S ";29,994;NULL;"U ";Long-Sleeve Logo Jersey;Current
+237;Jerseys;NULL;NULL;Long-Sleeve Logo Jersey, XL;38,4923;1;Multi;4;49,99;XL;XL;NULL;0;"S ";29,994;NULL;"U ";Long-Sleeve Logo Jersey;Current
+310;Road Bikes;"LB ";"CM ";Road-150 Red, 62;2171,2942;1;Red;100;3578,27;62;60-62 CM;15;4;"R ";2146,962;"H ";"U ";Road-150;Outline
+311;Road Bikes;"LB ";"CM ";Road-150 Red, 44;2171,2942;1;Red;100;3578,27;44;42-46 CM;13,77;4;"R ";2146,962;"H ";"U ";Road-150;Outline
+312;Road Bikes;"LB ";"CM ";Road-150 Red, 48;2171,2942;1;Red;100;3578,27;48;48-52 CM;14,13;4;"R ";2146,962;"H ";"U ";Road-150;Outline
+313;Road Bikes;"LB ";"CM ";Road-150 Red, 52;2171,2942;1;Red;100;3578,27;52;48-52 CM;14,42;4;"R ";2146,962;"H ";"U ";Road-150;Outline
+314;Road Bikes;"LB ";"CM ";Road-150 Red, 56;2171,2942;1;Red;100;3578,27;56;54-58 CM;14,68;4;"R ";2146,962;"H ";"U ";Road-150;Outline
+320;Road Bikes;"LB ";"CM ";Road-650 Red, 58;413,1463;1;Red;100;699,0982;58;54-58 CM;19,79;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+321;Road Bikes;"LB ";"CM ";Road-650 Red, 58;486,7066;1;Red;100;782,99;58;54-58 CM;19,79;4;"R ";469,794;"L ";"U ";Road-650;Outline
+322;Road Bikes;"LB ";"CM ";Road-650 Red, 60;413,1463;1;Red;100;699,0982;60;60-62 CM;19,9;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+323;Road Bikes;"LB ";"CM ";Road-650 Red, 60;486,7066;1;Red;100;782,99;60;60-62 CM;19,9;4;"R ";469,794;"L ";"U ";Road-650;Outline
+324;Road Bikes;"LB ";"CM ";Road-650 Red, 62;413,1463;1;Red;100;699,0982;62;60-62 CM;20;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+325;Road Bikes;"LB ";"CM ";Road-650 Red, 62;486,7066;1;Red;100;782,99;62;60-62 CM;20;4;"R ";469,794;"L ";"U ";Road-650;Outline
+326;Road Bikes;"LB ";"CM ";Road-650 Red, 44;413,1463;1;Red;100;699,0982;44;42-46 CM;18,77;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+327;Road Bikes;"LB ";"CM ";Road-650 Red, 44;486,7066;1;Red;100;782,99;44;42-46 CM;18,77;4;"R ";469,794;"L ";"U ";Road-650;Outline
+328;Road Bikes;"LB ";"CM ";Road-650 Red, 48;413,1463;1;Red;100;699,0982;48;48-52 CM;19,13;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+329;Road Bikes;"LB ";"CM ";Road-650 Red, 48;486,7066;1;Red;100;782,99;48;48-52 CM;19,13;4;"R ";469,794;"L ";"U ";Road-650;Outline
+330;Road Bikes;"LB ";"CM ";Road-650 Red, 52;413,1463;1;Red;100;699,0982;52;48-52 CM;19,42;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+331;Road Bikes;"LB ";"CM ";Road-650 Red, 52;486,7066;1;Red;100;782,99;52;48-52 CM;19,42;4;"R ";469,794;"L ";"U ";Road-650;Outline
+332;Road Bikes;"LB ";"CM ";Road-650 Black, 58;413,1463;1;Black;100;699,0982;58;54-58 CM;19,79;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+333;Road Bikes;"LB ";"CM ";Road-650 Black, 58;486,7066;1;Black;100;782,99;58;54-58 CM;19,79;4;"R ";469,794;"L ";"U ";Road-650;Outline
+334;Road Bikes;"LB ";"CM ";Road-650 Black, 60;413,1463;1;Black;100;699,0982;60;60-62 CM;19,9;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+335;Road Bikes;"LB ";"CM ";Road-650 Black, 60;486,7066;1;Black;100;782,99;60;60-62 CM;19,9;4;"R ";469,794;"L ";"U ";Road-650;Outline
+336;Road Bikes;"LB ";"CM ";Road-650 Black, 62;413,1463;1;Black;100;699,0982;62;60-62 CM;20;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+337;Road Bikes;"LB ";"CM ";Road-650 Black, 62;486,7066;1;Black;100;782,99;62;60-62 CM;20;4;"R ";469,794;"L ";"U ";Road-650;Outline
+338;Road Bikes;"LB ";"CM ";Road-650 Black, 44;413,1463;1;Black;100;699,0982;44;42-46 CM;18,77;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+339;Road Bikes;"LB ";"CM ";Road-650 Black, 44;486,7066;1;Black;100;782,99;44;42-46 CM;18,77;4;"R ";469,794;"L ";"U ";Road-650;Outline
+340;Road Bikes;"LB ";"CM ";Road-650 Black, 48;413,1463;1;Black;100;699,0982;48;48-52 CM;19,13;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+341;Road Bikes;"LB ";"CM ";Road-650 Black, 48;486,7066;1;Black;100;782,99;48;48-52 CM;19,13;4;"R ";469,794;"L ";"U ";Road-650;Outline
+342;Road Bikes;"LB ";"CM ";Road-650 Black, 52;413,1463;1;Black;100;699,0982;52;48-52 CM;19,42;4;"R ";419,4589;"L ";"U ";Road-650;Outline
+343;Road Bikes;"LB ";"CM ";Road-650 Black, 52;486,7066;1;Black;100;782,99;52;48-52 CM;19,42;4;"R ";469,794;"L ";"U ";Road-650;Outline
+344;Mountain Bikes;"LB ";"CM ";Mountain-100 Silver, 38;1912,1544;1;Silver;100;3399,99;38;38-40 CM;20,35;4;"M ";2039,994;"H ";"U ";Mountain-100;Outline
+345;Mountain Bikes;"LB ";"CM ";Mountain-100 Silver, 42;1912,1544;1;Silver;100;3399,99;42;42-46 CM;20,77;4;"M ";2039,994;"H ";"U ";Mountain-100;Outline
+346;Mountain Bikes;"LB ";"CM ";Mountain-100 Silver, 44;1912,1544;1;Silver;100;3399,99;44;42-46 CM;21,13;4;"M ";2039,994;"H ";"U ";Mountain-100;Outline
+347;Mountain Bikes;"LB ";"CM ";Mountain-100 Silver, 48;1912,1544;1;Silver;100;3399,99;48;48-52 CM;21,42;4;"M ";2039,994;"H ";"U ";Mountain-100;Outline
+348;Mountain Bikes;"LB ";"CM ";Mountain-100 Black, 38;1898,0944;1;Black;100;3374,99;38;38-40 CM;20,35;4;"M ";2024,994;"H ";"U ";Mountain-100;Outline
+349;Mountain Bikes;"LB ";"CM ";Mountain-100 Black, 42;1898,0944;1;Black;100;3374,99;42;42-46 CM;20,77;4;"M ";2024,994;"H ";"U ";Mountain-100;Outline
+350;Mountain Bikes;"LB ";"CM ";Mountain-100 Black, 44;1898,0944;1;Black;100;3374,99;44;42-46 CM;21,13;4;"M ";2024,994;"H ";"U ";Mountain-100;Outline
+351;Mountain Bikes;"LB ";"CM ";Mountain-100 Black, 48;1898,0944;1;Black;100;3374,99;48;48-52 CM;21,42;4;"M ";2024,994;"H ";"U ";Mountain-100;Outline
+352;Mountain Bikes;"LB ";"CM ";Mountain-200 Silver, 38;1117,8559;1;Silver;100;2071,4196;38;38-40 CM;23,35;4;"M ";1242,8518;"H ";"U ";Mountain-200;Outline
+353;Mountain Bikes;"LB ";"CM ";Mountain-200 Silver, 38;1265,6195;1;Silver;100;2319,99;38;38-40 CM;23,35;4;"M ";1391,994;"H ";"U ";Mountain-200;Current
+354;Mountain Bikes;"LB ";"CM ";Mountain-200 Silver, 42;1117,8559;1;Silver;100;2071,4196;42;42-46 CM;23,77;4;"M ";1242,8518;"H ";"U ";Mountain-200;Outline
+355;Mountain Bikes;"LB ";"CM ";Mountain-200 Silver, 42;1265,6195;1;Silver;100;2319,99;42;42-46 CM;23,77;4;"M ";1391,994;"H ";"U ";Mountain-200;Current
+356;Mountain Bikes;"LB ";"CM ";Mountain-200 Silver, 46;1117,8559;1;Silver;100;2071,4196;46;42-46 CM;24,13;4;"M ";1242,8518;"H ";"U ";Mountain-200;Outline
+357;Mountain Bikes;"LB ";"CM ";Mountain-200 Silver, 46;1265,6195;1;Silver;100;2319,99;46;42-46 CM;24,13;4;"M ";1391,994;"H ";"U ";Mountain-200;Current
+358;Mountain Bikes;"LB ";"CM ";Mountain-200 Black, 38;1105,81;1;Black;100;2049,0982;38;38-40 CM;23,35;4;"M ";1229,4589;"H ";"U ";Mountain-200;Outline
+359;Mountain Bikes;"LB ";"CM ";Mountain-200 Black, 38;1251,9813;1;Black;100;2294,99;38;38-40 CM;23,35;4;"M ";1376,994;"H ";"U ";Mountain-200;Current
+360;Mountain Bikes;"LB ";"CM ";Mountain-200 Black, 42;1105,81;1;Black;100;2049,0982;42;42-46 CM;23,77;4;"M ";1229,4589;"H ";"U ";Mountain-200;Outline
+361;Mountain Bikes;"LB ";"CM ";Mountain-200 Black, 42;1251,9813;1;Black;100;2294,99;42;42-46 CM;23,77;4;"M ";1376,994;"H ";"U ";Mountain-200;Current
+362;Mountain Bikes;"LB ";"CM ";Mountain-200 Black, 46;1105,81;1;Black;100;2049,0982;46;42-46 CM;24,13;4;"M ";1229,4589;"H ";"U ";Mountain-200;Outline
+363;Mountain Bikes;"LB ";"CM ";Mountain-200 Black, 46;1251,9813;1;Black;100;2294,99;46;42-46 CM;24,13;4;"M ";1376,994;"H ";"U ";Mountain-200;Current
+368;Road Bikes;"LB ";"CM ";Road-250 Red, 44;1518,7864;1;Red;100;2443,35;44;42-46 CM;14,77;4;"R ";1466,01;"H ";"U ";Road-250;Outline
+369;Road Bikes;"LB ";"CM ";Road-250 Red, 48;1518,7864;1;Red;100;2443,35;48;48-52 CM;15,13;4;"R ";1466,01;"H ";"U ";Road-250;Outline
+370;Road Bikes;"LB ";"CM ";Road-250 Red, 52;1518,7864;1;Red;100;2443,35;52;48-52 CM;15,42;4;"R ";1466,01;"H ";"U ";Road-250;Outline
+371;Road Bikes;"LB ";"CM ";Road-250 Red, 58;1320,6838;1;Red;100;2181,5625;58;54-58 CM;15,79;4;"R ";1308,9375;"H ";"U ";Road-250;Outline
+372;Road Bikes;"LB ";"CM ";Road-250 Red, 58;1554,9479;1;Red;100;2443,35;58;54-58 CM;15,79;4;"R ";1466,01;"H ";"U ";Road-250;Current
+373;Road Bikes;"LB ";"CM ";Road-250 Black, 44;1320,6838;1;Black;100;2181,5625;44;42-46 CM;14,77;4;"R ";1308,9375;"H ";"U ";Road-250;Outline
+374;Road Bikes;"LB ";"CM ";Road-250 Black, 44;1554,9479;1;Black;100;2443,35;44;42-46 CM;14,77;4;"R ";1466,01;"H ";"U ";Road-250;Current
+375;Road Bikes;"LB ";"CM ";Road-250 Black, 48;1320,6838;1;Black;100;2181,5625;48;48-52 CM;15,13;4;"R ";1308,9375;"H ";"U ";Road-250;Outline
+376;Road Bikes;"LB ";"CM ";Road-250 Black, 48;1554,9479;1;Black;100;2443,35;48;48-52 CM;15,13;4;"R ";1466,01;"H ";"U ";Road-250;Current
+377;Road Bikes;"LB ";"CM ";Road-250 Black, 52;1320,6838;1;Black;100;2181,5625;52;48-52 CM;15,42;4;"R ";1308,9375;"H ";"U ";Road-250;Outline
+378;Road Bikes;"LB ";"CM ";Road-250 Black, 52;1554,9479;1;Black;100;2443,35;52;48-52 CM;15,42;4;"R ";1466,01;"H ";"U ";Road-250;Current
+379;Road Bikes;"LB ";"CM ";Road-250 Black, 58;1320,6838;1;Black;100;2181,5625;58;54-58 CM;15,68;4;"R ";1308,9375;"H ";"U ";Road-250;Outline
+380;Road Bikes;"LB ";"CM ";Road-250 Black, 58;1554,9479;1;Black;100;2443,35;58;54-58 CM;15,68;4;"R ";1466,01;"H ";"U ";Road-250;Current
+381;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 38;605,6492;1;Yellow;100;1000,4375;38;38-40 CM;17,35;4;"R ";600,2625;"M ";"W ";Road-550-W;Outline
+382;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 38;713,0798;1;Yellow;100;1120,49;38;38-40 CM;17,35;4;"R ";672,294;"M ";"W ";Road-550-W;Current
+383;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 40;605,6492;1;Yellow;100;1000,4375;40;38-40 CM;17,77;4;"R ";600,2625;"M ";"W ";Road-550-W;Outline
+384;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 40;713,0798;1;Yellow;100;1120,49;40;38-40 CM;17,77;4;"R ";672,294;"M ";"W ";Road-550-W;Current
+385;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 42;605,6492;1;Yellow;100;1000,4375;42;42-46 CM;18,13;4;"R ";600,2625;"M ";"W ";Road-550-W;Outline
+386;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 42;713,0798;1;Yellow;100;1120,49;42;42-46 CM;18,13;4;"R ";672,294;"M ";"W ";Road-550-W;Current
+387;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 44;605,6492;1;Yellow;100;1000,4375;44;42-46 CM;18,42;4;"R ";600,2625;"M ";"W ";Road-550-W;Outline
+388;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 44;713,0798;1;Yellow;100;1120,49;44;42-46 CM;18,42;4;"R ";672,294;"M ";"W ";Road-550-W;Current
+389;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 48;605,6492;1;Yellow;100;1000,4375;48;48-52 CM;18,68;4;"R ";600,2625;"M ";"W ";Road-550-W;Outline
+390;Road Bikes;"LB ";"CM ";Road-550-W Yellow, 48;713,0798;1;Yellow;100;1120,49;48;48-52 CM;18,68;4;"R ";672,294;"M ";"W ";Road-550-W;Current
+463;Gloves;NULL;NULL;Half-Finger Gloves, S;9,1593;1;Black;4;24,49;S;S;NULL;0;"S ";14,694;NULL;"U ";Half-Finger Gloves;Current
+465;Gloves;NULL;NULL;Half-Finger Gloves, M;9,1593;1;Black;4;24,49;M;M;NULL;0;"S ";14,694;NULL;"U ";Half-Finger Gloves;Current
+467;Gloves;NULL;NULL;Half-Finger Gloves, L;9,1593;1;Black;4;24,49;L;L;NULL;0;"S ";14,694;NULL;"U ";Half-Finger Gloves;Current
+471;Vests;NULL;NULL;Classic Vest, S;23,749;1;Blue;4;63,50;S;S;NULL;0;"S ";38,10;NULL;"U ";Classic Vest;Current
+472;Vests;NULL;NULL;Classic Vest, M;23,749;1;Blue;4;63,50;M;M;NULL;0;"S ";38,10;NULL;"U ";Classic Vest;Current
+473;Vests;NULL;NULL;Classic Vest, L;23,749;1;Blue;4;63,50;L;L;NULL;0;"S ";38,10;NULL;"U ";Classic Vest;Current
+474;Shorts;NULL;NULL;Women's Mountain Shorts, S;26,1763;1;Black;4;69,99;S;S;NULL;0;"M ";41,994;NULL;"W ";Women's Mountain Shorts;Current
+475;Shorts;NULL;NULL;Women's Mountain Shorts, M;26,1763;1;Black;4;69,99;M;M;NULL;0;"M ";41,994;NULL;"W ";Women's Mountain Shorts;Current
+476;Shorts;NULL;NULL;Women's Mountain Shorts, L;26,1763;1;Black;4;69,99;L;L;NULL;0;"M ";41,994;NULL;"W ";Women's Mountain Shorts;Current
+477;Bottles and Cages;NULL;NULL;Water Bottle - 30 oz.;1,8663;1;NA;4;4,99;NULL;NA;NULL;0;"S ";2,994;NULL;NULL;Water Bottle;Current
+478;Bottles and Cages;NULL;NULL;Mountain Bottle Cage;3,7363;1;NA;4;9,99;NULL;NA;NULL;0;"M ";5,994;NULL;NULL;Mountain Bottle Cage;Current
+479;Bottles and Cages;NULL;NULL;Road Bottle Cage;3,3623;1;NA;4;8,99;NULL;NA;NULL;0;"R ";5,394;NULL;NULL;Road Bottle Cage;Current
+480;Tires and Tubes;NULL;NULL;Patch Kit/8 Patches;0,8565;1;NA;4;2,29;NULL;NA;NULL;0;"S ";1,374;NULL;NULL;Patch kit;Current
+481;Socks;NULL;NULL;Racing Socks, M;3,3623;1;White;4;8,99;M;M;NULL;0;"R ";5,394;NULL;"U ";Racing Socks;Current
+482;Socks;NULL;NULL;Racing Socks, L;3,3623;1;White;4;8,99;L;L;NULL;0;"R ";5,394;NULL;"U ";Racing Socks;Current
+483;Bike Racks;NULL;NULL;Hitch Rack - 4-Bike;44,88;1;NA;4;120,00;NULL;NA;NULL;0;"S ";72,00;NULL;NULL;Hitch Rack - 4-Bike;Current
+484;Cleaners;NULL;NULL;Bike Wash - Dissolver;2,9733;1;NA;4;7,95;NULL;NA;NULL;0;"S ";4,77;NULL;NULL;Bike Wash;Current
+485;Fenders;NULL;NULL;Fender Set - Mountain;8,2205;1;NA;4;21,98;NULL;NA;NULL;0;"M ";13,188;NULL;NULL;Fender Set - Mountain;Current
+486;Bike Stands;NULL;NULL;All-Purpose Bike Stand;59,466;1;NA;4;159,00;NULL;NA;NULL;0;"M ";95,40;NULL;NULL;All-Purpose Bike Stand;Current
+487;Hydration Packs;NULL;NULL;Hydration Pack - 70 oz.;20,5663;1;Silver;4;54,99;70;70;NULL;0;"S ";32,994;NULL;NULL;Hydration Pack;Current
+488;Jerseys;NULL;NULL;Short-Sleeve Classic Jersey, S;41,5723;1;Yellow;4;53,99;S;S;NULL;0;"S ";32,394;NULL;"U ";Short-Sleeve Classic Jersey;Current
+489;Jerseys;NULL;NULL;Short-Sleeve Classic Jersey, M;41,5723;1;Yellow;4;53,99;M;M;NULL;0;"S ";32,394;NULL;"U ";Short-Sleeve Classic Jersey;Current
+490;Jerseys;NULL;NULL;Short-Sleeve Classic Jersey, L;41,5723;1;Yellow;4;53,99;L;L;NULL;0;"S ";32,394;NULL;"U ";Short-Sleeve Classic Jersey;Current
+491;Jerseys;NULL;NULL;Short-Sleeve Classic Jersey, XL;41,5723;1;Yellow;4;53,99;XL;XL;NULL;0;"S ";32,394;NULL;"U ";Short-Sleeve Classic Jersey;Current
+528;Tires and Tubes;NULL;NULL;Mountain Tire Tube;1,8663;1;NA;500;4,99;NULL;NA;NULL;0;"M ";2,994;NULL;NULL;Mountain Tire Tube;Current
+529;Tires and Tubes;NULL;NULL;Road Tire Tube;1,4923;1;NA;500;3,99;NULL;NA;NULL;0;"R ";2,394;NULL;NULL;Road Tire Tube;Current
+530;Tires and Tubes;NULL;NULL;Touring Tire Tube;1,8663;1;NA;500;4,99;NULL;NA;NULL;0;"T ";2,994;NULL;NULL;Touring Tire Tube;Current
+535;Tires and Tubes;NULL;NULL;LL Mountain Tire;9,3463;1;NA;500;24,99;NULL;NA;NULL;0;"M ";14,994;"L ";NULL;LL Mountain Tire;Current
+536;Tires and Tubes;NULL;NULL;ML Mountain Tire;11,2163;1;NA;500;29,99;NULL;NA;NULL;0;"M ";17,994;"M ";NULL;ML Mountain Tire;Current
+537;Tires and Tubes;NULL;NULL;HL Mountain Tire;13,09;1;NA;500;35,00;NULL;NA;NULL;0;"M ";21,00;"H ";NULL;HL Mountain Tire;Current
+538;Tires and Tubes;NULL;NULL;LL Road Tire;8,0373;1;NA;500;21,49;NULL;NA;NULL;0;"R ";12,894;"L ";NULL;LL Road Tire;Current
+539;Tires and Tubes;NULL;NULL;ML Road Tire;9,3463;1;NA;500;24,99;NULL;NA;NULL;0;"R ";14,994;"M ";NULL;ML Road Tire;Current
+540;Tires and Tubes;NULL;NULL;HL Road Tire;12,1924;1;NA;500;32,60;NULL;NA;NULL;0;"R ";19,56;"H ";NULL;HL Road Tire;Current
+541;Tires and Tubes;NULL;NULL;Touring Tire;10,8423;1;NA;500;28,99;NULL;NA;NULL;0;"T ";17,394;NULL;NULL;Touring Tire;Current
+560;Touring Bikes;"LB ";"CM ";Touring-2000 Blue, 60;755,1508;1;Blue;100;1214,85;60;60-62 CM;27,9;4;"T ";728,91;"M ";"U ";Touring-2000;Current
+561;Touring Bikes;"LB ";"CM ";Touring-1000 Yellow, 46;1481,9379;1;Yellow;100;2384,07;46;42-46 CM;25,13;4;"T ";1430,442;"H ";"U ";Touring-1000;Current
+562;Touring Bikes;"LB ";"CM ";Touring-1000 Yellow, 50;1481,9379;1;Yellow;100;2384,07;50;48-52 CM;25,42;4;"T ";1430,442;"H ";"U ";Touring-1000;Current
+563;Touring Bikes;"LB ";"CM ";Touring-1000 Yellow, 54;1481,9379;1;Yellow;100;2384,07;54;54-58 CM;25,68;4;"T ";1430,442;"H ";"U ";Touring-1000;Current
+564;Touring Bikes;"LB ";"CM ";Touring-1000 Yellow, 60;1481,9379;1;Yellow;100;2384,07;60;60-62 CM;25,9;4;"T ";1430,442;"H ";"U ";Touring-1000;Current
+565;Touring Bikes;"LB ";"CM ";Touring-3000 Blue, 54;461,4448;1;Blue;100;742,35;54;54-58 CM;29,68;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+566;Touring Bikes;"LB ";"CM ";Touring-3000 Blue, 58;461,4448;1;Blue;100;742,35;58;54-58 CM;29,9;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+567;Touring Bikes;"LB ";"CM ";Touring-3000 Blue, 62;461,4448;1;Blue;100;742,35;62;60-62 CM;30;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+568;Touring Bikes;"LB ";"CM ";Touring-3000 Yellow, 44;461,4448;1;Yellow;100;742,35;44;42-46 CM;28,77;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+569;Touring Bikes;"LB ";"CM ";Touring-3000 Yellow, 50;461,4448;1;Yellow;100;742,35;50;48-52 CM;29,13;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+570;Touring Bikes;"LB ";"CM ";Touring-3000 Yellow, 54;461,4448;1;Yellow;100;742,35;54;54-58 CM;29,42;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+571;Touring Bikes;"LB ";"CM ";Touring-3000 Yellow, 58;461,4448;1;Yellow;100;742,35;58;54-58 CM;29,79;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+572;Touring Bikes;"LB ";"CM ";Touring-3000 Yellow, 62;461,4448;1;Yellow;100;742,35;62;60-62 CM;30;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+573;Touring Bikes;"LB ";"CM ";Touring-1000 Blue, 46;1481,9379;1;Blue;100;2384,07;46;42-46 CM;25,13;4;"T ";1430,442;"H ";"U ";Touring-1000;Current
+574;Touring Bikes;"LB ";"CM ";Touring-1000 Blue, 50;1481,9379;1;Blue;100;2384,07;50;48-52 CM;25,42;4;"T ";1430,442;"H ";"U ";Touring-1000;Current
+575;Touring Bikes;"LB ";"CM ";Touring-1000 Blue, 54;1481,9379;1;Blue;100;2384,07;54;54-58 CM;25,68;4;"T ";1430,442;"H ";"U ";Touring-1000;Current
+576;Touring Bikes;"LB ";"CM ";Touring-1000 Blue, 60;1481,9379;1;Blue;100;2384,07;60;60-62 CM;25,9;4;"T ";1430,442;"H ";"U ";Touring-1000;Current
+577;Touring Bikes;"LB ";"CM ";Touring-2000 Blue, 46;755,1508;1;Blue;100;1214,85;46;42-46 CM;27,13;4;"T ";728,91;"M ";"U ";Touring-2000;Current
+578;Touring Bikes;"LB ";"CM ";Touring-2000 Blue, 50;755,1508;1;Blue;100;1214,85;50;48-52 CM;27,42;4;"T ";728,91;"M ";"U ";Touring-2000;Current
+579;Touring Bikes;"LB ";"CM ";Touring-2000 Blue, 54;755,1508;1;Blue;100;1214,85;54;54-58 CM;27,68;4;"T ";728,91;"M ";"U ";Touring-2000;Current
+580;Road Bikes;"LB ";"CM ";Road-350-W Yellow, 40;1082,51;1;Yellow;100;1700,99;40;38-40 CM;15,35;4;"R ";1020,594;"M ";"W ";Road-350-W;Current
+581;Road Bikes;"LB ";"CM ";Road-350-W Yellow, 42;1082,51;1;Yellow;100;1700,99;42;42-46 CM;15,77;4;"R ";1020,594;"M ";"W ";Road-350-W;Current
+582;Road Bikes;"LB ";"CM ";Road-350-W Yellow, 44;1082,51;1;Yellow;100;1700,99;44;42-46 CM;16,13;4;"R ";1020,594;"M ";"W ";Road-350-W;Current
+583;Road Bikes;"LB ";"CM ";Road-350-W Yellow, 48;1082,51;1;Yellow;100;1700,99;48;48-52 CM;16,42;4;"R ";1020,594;"M ";"W ";Road-350-W;Current
+584;Road Bikes;"LB ";"CM ";Road-750 Black, 58;343,6496;1;Black;100;539,99;58;54-58 CM;20,79;4;"R ";323,994;"L ";"U ";Road-750;Current
+585;Touring Bikes;"LB ";"CM ";Touring-3000 Blue, 44;461,4448;1;Blue;100;742,35;44;42-46 CM;28,77;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+586;Touring Bikes;"LB ";"CM ";Touring-3000 Blue, 50;461,4448;1;Blue;100;742,35;50;48-52 CM;29,13;4;"T ";445,41;"L ";"U ";Touring-3000;Current
+587;Mountain Bikes;"LB ";"CM ";Mountain-400-W Silver, 38;419,7784;1;Silver;100;769,49;38;38-40 CM;26,35;4;"M ";461,694;"M ";"W ";Mountain-400-W;Current
+588;Mountain Bikes;"LB ";"CM ";Mountain-400-W Silver, 40;419,7784;1;Silver;100;769,49;40;38-40 CM;26,77;4;"M ";461,694;"M ";"W ";Mountain-400-W;Current
+589;Mountain Bikes;"LB ";"CM ";Mountain-400-W Silver, 42;419,7784;1;Silver;100;769,49;42;42-46 CM;27,13;4;"M ";461,694;"M ";"W ";Mountain-400-W;Current
+590;Mountain Bikes;"LB ";"CM ";Mountain-400-W Silver, 46;419,7784;1;Silver;100;769,49;46;42-46 CM;27,42;4;"M ";461,694;"M ";"W ";Mountain-400-W;Current
+591;Mountain Bikes;"LB ";"CM ";Mountain-500 Silver, 40;308,2179;1;Silver;100;564,99;40;38-40 CM;27,35;4;"M ";338,994;"L ";"U ";Mountain-500;Current
+592;Mountain Bikes;"LB ";"CM ";Mountain-500 Silver, 42;308,2179;1;Silver;100;564,99;42;42-46 CM;27,77;4;"M ";338,994;"L ";"U ";Mountain-500;Current
+593;Mountain Bikes;"LB ";"CM ";Mountain-500 Silver, 44;308,2179;1;Silver;100;564,99;44;42-46 CM;28,13;4;"M ";338,994;"L ";"U ";Mountain-500;Current
+594;Mountain Bikes;"LB ";"CM ";Mountain-500 Silver, 48;308,2179;1;Silver;100;564,99;48;48-52 CM;28,42;4;"M ";338,994;"L ";"U ";Mountain-500;Current
+595;Mountain Bikes;"LB ";"CM ";Mountain-500 Silver, 52;308,2179;1;Silver;100;564,99;52;48-52 CM;28,68;4;"M ";338,994;"L ";"U ";Mountain-500;Current
+596;Mountain Bikes;"LB ";"CM ";Mountain-500 Black, 40;294,5797;1;Black;100;539,99;40;38-40 CM;27,35;4;"M ";323,994;"L ";"U ";Mountain-500;Current
+597;Mountain Bikes;"LB ";"CM ";Mountain-500 Black, 42;294,5797;1;Black;100;539,99;42;42-46 CM;27,77;4;"M ";323,994;"L ";"U ";Mountain-500;Current
+598;Mountain Bikes;"LB ";"CM ";Mountain-500 Black, 44;294,5797;1;Black;100;539,99;44;42-46 CM;28,13;4;"M ";323,994;"L ";"U ";Mountain-500;Current
+599;Mountain Bikes;"LB ";"CM ";Mountain-500 Black, 48;294,5797;1;Black;100;539,99;48;48-52 CM;28,42;4;"M ";323,994;"L ";"U ";Mountain-500;Current
+600;Mountain Bikes;"LB ";"CM ";Mountain-500 Black, 52;294,5797;1;Black;100;539,99;52;48-52 CM;28,68;4;"M ";323,994;"L ";"U ";Mountain-500;Current
+604;Road Bikes;"LB ";"CM ";Road-750 Black, 44;343,6496;1;Black;100;539,99;44;42-46 CM;19,77;4;"R ";323,994;"L ";"U ";Road-750;Current
+605;Road Bikes;"LB ";"CM ";Road-750 Black, 48;343,6496;1;Black;100;539,99;48;48-52 CM;20,13;4;"R ";323,994;"L ";"U ";Road-750;Current
+606;Road Bikes;"LB ";"CM ";Road-750 Black, 52;343,6496;1;Black;100;539,99;52;48-52 CM;20,42;4;"R ";323,994;"L ";"U ";Road-750;Current
