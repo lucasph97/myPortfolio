@@ -30,7 +30,6 @@ Loan status is a binary variable (approved/rejected) and thus it results in a cl
 4) Gradient Boosting Models
 5) Support Vector Machines (SVM)
 6) Neural Networks
-7) Ensemble Methods
 
 ###  Model performance 
 Model performance will be evaluated through ROC-AUC curve and classification matrix. In this particular case, it is preferrable to incorrectly reject applications that should have been approved (false negatives) rather than approving loans to applicants who will not pay the loan (false positives). The first situation results in losing potential payers, which indeed would not be good for business. However the former results in lending money to potential defaulters, that is, people who will not pay for the loans. This is a worst scenario compared to losing potential clients. Thus it would be more adequate to train a more conservative model.
