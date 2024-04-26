@@ -1,0 +1,9 @@
+### Best model
+Best performing model was the Support Vector Machine. Most evaluated classification models had a rather poor performance, especially when it comes to classifying rejected loans. 
+The SVM had a ROC AUC score of 0.683. Additionally it perfectly predicted the true positives, that is it approved loans to applicants who were supposed to get approvals. It had a poor performance at predicting true negatives, that is, rejecting loans to applicants who were supposed to be rejected: 8 true negatives and 14 false negatives. The model tends to approve more loans than it should. This flaw does not correspond to the SVM only, but to all the other models.
+
+### Thoughts
+Models considered the Credit History as the most important feature for classifying applications. In that sense, applicants who had credit history would most times get the approval. However some of those applicants should have been rejected. Thus, more relevant information on the applicant's should be considered, i.e., what is the credit history like? Did they pay or not? Information is rather vague. Applicant's age might also be relevant. Is the applicant employed or has a job? Is the applicant on current debts? 
+
+### Final comments
+Model's performance might be improved if more relevant data was incorporated. However, in the meantime, model could be useful for pre-approvals, that is, the applicant could automatically skip (or not) a step into the application process. If the application is approved by the model, then the company could make a more thorough research on the pre-approved applications, saving time for the company as well.  
